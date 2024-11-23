@@ -1,8 +1,0 @@
-AIzaSyASbB6gxF71l0C7mfjSmPx3aCVIgKhOpGk esta chave foi criada pelo site http://alura.tv/google-gemini-api
-
-MongoDB:
-    Username: cassio
-
-    Senha: 1ePIERraBmCgQ5QH
-    
-    String de conexão: mongodb+srv://cassio:1ePIERraBmCgQ5QH@cluster0.kvkdr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
